@@ -3,10 +3,10 @@
         {
             "type": "amazon-ebs",
             "access_key": "AKIAICTM3ILHOF54OG4A",
-            "secret_key": "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".
+            "secret_key": "wf1lJSeSVuEzqYBtV5+IC8p8sDVw9IFMChxgO+c6",
             "region": "ap-south-",
             "ami_name": "first-ami",
-            "source_ami": " ami-0eeb03e72075b9bcc",
+            "source_ami": "ami-0eeb03e72075b9bcc",
             "instance_type": "t2.micro",
             "ssh_username": "ec2-user"
         }
