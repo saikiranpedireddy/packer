@@ -2,8 +2,8 @@
     "builders": [
         {
             "type": "amazon-ebs",
-            "access_key": "AKIAI3XF5EZQQO6QV3DQ",
-            "secret_key": "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",
+            "access_key": "AKIAICTM3ILHOF54OG4A",
+            "secret_key": "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",
             "region": "ap-south-1",
             "ami_name": "first-ami",
             "source_ami": "ami-0eeb03e72075b9bcc",
