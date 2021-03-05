@@ -1,8 +1,8 @@
 {
     "description": "Create an NGINX Plus R22 on Ubuntu 18.04 LTS",
     "variables": {
-      "aws_access_key": "",
-      "aws_secret_key": "",
+      "aws_access_key": "AKIATS4P6SPKMRPN4AVA",
+      "aws_secret_key": "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",
       "region": "",
       "source_ami": "ami-04fcc97b5f6edcd89"
     },
